@@ -1,6 +1,5 @@
 /target
 **/*.rs.bk
-.env
 gateway.toml
 .DS_Store
 *.swp
@@ -13,3 +12,4 @@ __pycache__/
 .pytest_cache/
 *.sqlite3
 apps/gateway/ui-dist/
+config.bat
